@@ -12,6 +12,16 @@
   {
     "license_name": "MIT",
     "license_url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/blob/main/LICENSE",
+    "name": "Phi-3-new",
+    "provider_url": "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf",
+    "urls": [
+      "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-fp16.gguf"
+    ],
+    "sha256": "5d99003e395775659b0dde3f941d88ff378b2837a8dc3a2ea94222ab1420fad3"
+  },
+  {
+    "license_name": "MIT",
+    "license_url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/blob/main/LICENSE",
     "name": "Phi-3",
     "provider_url": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct",
     "urls": [
